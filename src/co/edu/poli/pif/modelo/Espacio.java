@@ -1,6 +1,6 @@
 package co.edu.poli.pif.modelo;
 
-public abstract class Espacio {
+public class Espacio {
 
     //Atributos privados
     private String id;

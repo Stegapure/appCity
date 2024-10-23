@@ -1,7 +1,7 @@
 package co.edu.poli.pif.modelo;
 import java.io.Serializable;
 
-public abstract class Mascota implements Serializable{
+public class Mascota implements Serializable{
     public static final long serialVersionUid = 1L;
 
     //Atributos privados
